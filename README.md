@@ -1,2 +1,2 @@
 # meditation-app
-Meditation app tutorial
+Meditation with SriSri
